@@ -1,5 +1,8 @@
 package com.blog.security;
 
-public class JwtTokenHelper {
+import org.springframework.stereotype.Component;
 
+@Component
+public class JwtTokenHelper {
+	
 }
